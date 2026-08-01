@@ -29,7 +29,9 @@
 
 ---
 
-## Used APIs
+## Used Resources
+
 - JavaFX
 - JPackage
+- Flaticons
 </div>
