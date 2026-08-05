@@ -34,4 +34,6 @@
 - JavaFX
 - JPackage
 - Flaticons
+
+---
 </div>
