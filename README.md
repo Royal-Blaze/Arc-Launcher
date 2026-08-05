@@ -15,7 +15,7 @@
 
 ---
 
-## Features
+## Features:
 
 - Modern Interface
 - Fast Startup
@@ -29,11 +29,19 @@
 
 ---
 
-## Used Resources
+## Used Resources:
 
 - JavaFX
 - JPackage
 - Flaticons
 
 ---
+
+## Requirements:
+
+- Minimum 1280 by 720 or 720p Resolution
+- (Distros that use) Debian 13 or Higher
+- Windows 11 or Higher
+- Java 21 Installed
+  
 </div>
