@@ -4,32 +4,31 @@
 
 # Arc Launcher
 
-[![GitHub Release](https://img.shields.io/github/v/release/YOUR_USERNAME/arc-launcher?style=for-the-badge)](https://github.com/YOUR_USERNAME/arc-launcher/releases)
-[![GitHub Downloads](https://img.shields.io/github/downloads/YOUR_USERNAME/arc-launcher/total?style=for-the-badge)](https://github.com/YOUR_USERNAME/arc-launcher/releases)
-[![License](https://img.shields.io/github/license/YOUR_USERNAME/arc-launcher?style=for-the-badge)](LICENSE)
+[![GitHub Release](https://shields.io)](https://github.com/Royal-Blaze/Arc-Launcher/releases)
+[![GitHub Downloads](https://shields.io)](https://github.com/Royal-Blaze/Arc-Launcher/releases)
+[![License](https://shields.io)](LICENSE)
 
-
-*A Minecraft Launcher built with Java using JavaFX framework.*
+*A Minecraft Launcher built with Java using the JavaFX framework.*
 
 </div>
 
 ---
 
-## Features:
+## Features
 
 - Modern Interface
 - Fast Startup
 - Multiple Instances 
 - Java Manager
 - Microsoft and Ely.by Authentication
-- Forge, Fabric, Quilt, Neoforge, Optifine.. Loaders Support
+- Forge, Fabric, Quilt, Neoforge, and Optifine loader support
 - Plugins Management
 - Official Launcher for Royal Client
 - Optimized Performance
 
 ---
 
-## Used Resources:
+## Used Resources
 
 - JavaFX
 - JPackage
@@ -37,18 +36,16 @@
 
 ---
 
-## Requirements:
+## Requirements
 
-- Minimum 1280 by 720 or 720p Resolution
-- (Distros that use) Debian 13 or Higher
-- Windows 11 or Higher
-- Java 21 Installed
+- Minimum 1280x720 (720p) resolution
+- Linux distribution using Debian 13 or higher
+- Windows 11 or higher
+- Java 21 installed
 
 ---
 
-## Steps to use:
+## Steps to Use
 
-- Install Java 25 or Higher(Recommended [Temurin](https://adoptium.net/temurin/releases))
-- Get the latest app(.deb or .exe or .tar.xz) from [Release](https://github.com/Royal-Blaze/Arc-Launcher/releases/)
-  
-</div>
+1. Install Java 25 or higher (Recommended: [Temurin](https://adoptium.net/temurin/releases))
+2. Download the latest app package (`.deb`, `.exe`, or `.tar.xz`) from [Releases](https://github.com/Royal-Blaze/Arc-Launcher/releases/)
