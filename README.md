@@ -43,5 +43,12 @@
 - (Distros that use) Debian 13 or Higher
 - Windows 11 or Higher
 - Java 21 Installed
+
+---
+
+## Steps to use:
+
+- Install Java 25 or Higher(Recommended [Temurin](https://adoptium.net/temurin/releases))
+- Get the latest app(.deb or .exe or .tar.xz) from [Release](https://github.com/Royal-Blaze/Arc-Launcher/releases/)
   
 </div>
